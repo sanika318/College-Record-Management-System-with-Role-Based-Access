@@ -5,19 +5,10 @@
 
 
 ------------- 
-
-### :alien: Installation
-> ```git clone https://github.com/xevozen/College-Management-System-using-Python-and-Tkinter.git```
-
-### :gear: Configuration
+Configuration
 * Import the [SQL database](database/nsec_db.sql) into your phpmyadmin console panel.
 * Start MySQL server
 * Run the [main.py](main.py) to start the GUI
 
-#### :star:+1 If you've found this interesting :sparkles:
-
-### :black_nib: Authors
-  - **Souhardhya Paul** - *Initial author(2021)* - [xevozen](https://github.com/xevozen)
-
-### :balance_scale: License
+License
 [GPLv3 License](https://choosealicense.com/licenses/gpl-3.0/)
